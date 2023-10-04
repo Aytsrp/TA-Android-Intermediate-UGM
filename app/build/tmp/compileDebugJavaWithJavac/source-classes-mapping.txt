@@ -1,0 +1,36 @@
+com/project/utils/TimeUnits.java
+ com.project.utils.TimeUnits
+com/project/ta_diklat/OpenNewsActivity.java
+ com.project.ta_diklat.OpenNewsActivity
+com/project/holder/NewsViewHolder.java
+ com.project.holder.NewsViewHolder
+com/project/api/NewsApi.java
+ com.project.api.NewsApi
+com/project/ta_diklat/BuildConfig.java
+ com.project.ta_diklat.BuildConfig
+com/project/model/ModelNews.java
+ com.project.model.ModelNews
+com/project/ta_diklat/HeadLineActivity.java
+ com.project.ta_diklat.HeadLineActivity
+ com.project.ta_diklat.HeadLineActivity$1
+com/project/ta_diklat/HealthActivity.java
+ com.project.ta_diklat.HealthActivity
+ com.project.ta_diklat.HealthActivity$1
+com/project/ta_diklat/SportsNewsActivity.java
+ com.project.ta_diklat.SportsNewsActivity
+ com.project.ta_diklat.SportsNewsActivity$1
+com/project/adapter/NewsAdapter.java
+ com.project.adapter.NewsAdapter
+ com.project.adapter.NewsAdapter$1
+ com.project.adapter.NewsAdapter$onSelectData
+com/project/ta_diklat/TechnologyActivity.java
+ com.project.ta_diklat.TechnologyActivity
+ com.project.ta_diklat.TechnologyActivity$1
+com/project/ta_diklat/BusinessActivity.java
+ com.project.ta_diklat.BusinessActivity
+ com.project.ta_diklat.BusinessActivity$1
+com/project/ta_diklat/EntertaimentActivity.java
+ com.project.ta_diklat.EntertaimentActivity
+ com.project.ta_diklat.EntertaimentActivity$1
+com/project/ta_diklat/MainActivity.java
+ com.project.ta_diklat.MainActivity
